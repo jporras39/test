@@ -1,3 +1,5 @@
+//porritas
+
 function funcion1(){
 	//alert('hola todos');
 	//document.write('hola todos');
