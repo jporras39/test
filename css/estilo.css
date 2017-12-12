@@ -1,0 +1,30 @@
+
+
+/*  esta regla de estilo se le va a aplocar a TODOS (*) los elementos de la pagina
+*/
+
+*{
+	margin:10px;
+	padding: 5px;
+}
+
+.resultado{
+	font-size: 30px;
+	width: 40%;
+	background-color: #fff; 
+}
+
+#ej1{
+border: 1px solid green;	
+background-color: lightblue;
+
+}
+#ej2{
+border: 1px solid green;	
+background-color: lightblue;
+
+}
+
+
+
+
